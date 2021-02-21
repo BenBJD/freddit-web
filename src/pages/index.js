@@ -1,0 +1,8 @@
+export {default as CreatePostPage} from "./CreatePostPage"
+export {default as LoginPage} from "./LoginPage"
+export {default as MainPage} from "./MainPage"
+export {default as PostPage} from "./PostPage"
+export {default as UserPage} from "./UserPage"
+export {default as SettingsPage} from "./SettingsPage"
+export {default as SignupPage} from "./SignupPage"
+export {default as NotFoundPage} from "./NotFoundPage"
