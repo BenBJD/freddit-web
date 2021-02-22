@@ -6,8 +6,7 @@ import {
     PostPage,
     SettingsPage,
     SignupPage,
-    UserPage,
-    NotFoundPage
+    UserPage
 } from "./pages"
 
 export const routes = {
